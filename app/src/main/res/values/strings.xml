@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AfyaHalisi</string>
+    <string name="title_activity_index">Afyahalisi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="indexmenuone">
+        <item>Training materials</item>
+        <item>Weekly medical updates</item>
+        <item>Medical news</item>
+        <item>Library and journals</item>
+        <item>Public portal</item>
+    </string-array>
+    <string-array name="indexmenutwo">
+        <item>Get access  to training materials from any medical division</item>
+        <item>Be updated weekly regarding  medical matters</item>
+        <item>Access news from all over kisumu county</item>
+        <item>Read on the latest advancements in medicine</item>
+        <item>Debate and ask questions on the public platform</item>
+    </string-array>
+    <string name="all_aboutkisumu">
+        Kisumu, which literally means a place of barter trade "sumo" and officially known as Kisumu City, is the Kenyan inland port city on Lake Victoria and the capital city of Kisumu County, Kenya.
+        It is the third largest city in Kenya after the capital, Nairobi, and the coastal city of Mombasa. Kisumu is the principal city of western Kenya, the immediate former capital of Nyanza Province, the headquarters of Kisumu County and the proposed headquarters of the Lake Region Economic Block, which is a conglomeration of 15 counties in Western Kenya.
+    </string>
+    <string name="healthy">
+        Health in Kisumu County is provided by several institutions that are either private or government funded. There is one teaching and referral hospital, 5 County referral hospital, 14 sub-county hospitals, 74 dispensaries and 18 health centres in the county. The naming system has been changed due to the fact that the system of government has changed and Kenya is now operating a devolved system of government. The county government shall now fully responsible for health service delivery to residents in the county through health facilities and pharmacies as enshrined in Schedule 4 of the Constitution of Kenya (2010). . The Infant Mortality Rates for Kisumu County is relatively high, at 95/1000. The under five mortality rates for the county are 149/1000. The maternal mortality has been estimated to be 590 per 100,000 live births
+    </string>
+    <string name="structure">
+        Kisumu has 7 sub-counties Kisumu West\n, Kisumu Central\n, Kisumu East\n, Seme\n, Muhoroni\n, Nyando\n Nyakach
+    </string>
+</resources>

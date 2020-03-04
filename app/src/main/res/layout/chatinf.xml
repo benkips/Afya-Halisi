@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cvxchats"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="4dp"
+    android:elevation="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="8dp"
+            android:padding="8dp">
+            <TextView
+                android:id="@+id/chtmsg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:text="chats "/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/chtsender"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:textSize="15sp"
+                    android:text="sender"
+                    android:textColor="#3498db"
+                    android:layout_marginRight="15dp"
+                    android:layout_alignParentRight="true" />
+                <TextView
+                    android:id="@+id/rplys"
+                    android:layout_below="@+id/chtsender"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" 5 replies"
+                    />
+            </RelativeLayout>
+
+
+
+
+        </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
